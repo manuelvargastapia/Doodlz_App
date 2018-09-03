@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Doodlz</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="btn_borrar">Borrar imagen</string>
+    <string name="btn_establecer_color">Establecer color</string>
+    <string name="btn_establecer_ancho_linea">Establecer ancho de línea</string>
+    <string name="linea_imageview_description">Mostrar espesor de línea</string>
+    <string name="etiqueta_alfa">Alfa</string>
+    <string name="etiqueta_rojo">Rojo</string>
+    <string name="etiqueta_verde">Verde</string>
+    <string name="etiqueta_azul">Azul</string>
+    <string name="menuitem_color">Color</string>
+    <string name="menuitem_borrar">Borrar dibujo</string>
+    <string name="menuitem_ancho_linea">Ancho de línea</string>
+    <string name="menuitem_guardar">Guardar</string>
+    <string name="menuitem_imprimir">Imprimir</string>
+    <string name="mensaje_borrar">¿Borrar dibujo?</string>
+    <string name="mensaje_error_guardar">Ocurrió un error al guardar la imagen</string>
+    <string name="mensaje_guardado">Puede ver tu dibujo con la app de Fotos y puedes encontrarlo entre los archivos del dispositivo (ver menú)</string>
+    <string name="mensaje_error_imprimir">Tu dispositivo no puede imprimir</string>
+    <string name="permiso_explicacion">Para guardar una imagen, la app requiere permiso para utilizar tu almacenamiento externo</string>
+    <string name="title_color_dialog">Escoge un color</string>
+    <string name="title_line_width_dialog">Escoge el groso de la línea</string>
+    <string name="todo">TODO</string>
+</resources>

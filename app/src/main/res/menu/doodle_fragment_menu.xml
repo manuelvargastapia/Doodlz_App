@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/color"
+        android:title="@string/menuitem_color"
+        android:icon="@drawable/ic_palette_black_24dp"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/grosor_linea"
+        android:icon="@drawable/ic_brush_black_24dp"
+        android:title="@string/menuitem_ancho_linea"
+        app:showAsAction="ifRoom"></item>
+
+    <item
+        android:id="@+id/borrar"
+        android:icon="@drawable/ic_delete_black_24dp"
+        android:title="@string/menuitem_borrar"
+        app:showAsAction="ifRoom"></item>
+
+    <item
+        android:id="@+id/guardar"
+        android:icon="@drawable/ic_save_black_24dp"
+        android:title="@string/menuitem_guardar"
+        app:showAsAction="ifRoom"></item>
+
+    <item
+        android:id="@+id/imprimir"
+        android:icon="@drawable/ic_print_black_24dp"
+        android:title="@string/menuitem_imprimir"
+        app:showAsAction="ifRoom"></item>
+
+</menu>

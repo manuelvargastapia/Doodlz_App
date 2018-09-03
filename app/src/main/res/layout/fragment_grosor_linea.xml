@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/gridGrosorLinea"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="1"
+    android:orientation="vertical"
+    android:useDefaultMargins="true">
+
+    <ImageView
+        android:id="@+id/imvGrosorLinea"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        app:srcCompat="@drawable/imagen_ancho_linea"
+        android:contentDescription="@string/todo" />
+
+    <SeekBar
+        android:id="@+id/sbGrosorLinea"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:max="50" />
+</GridLayout>
